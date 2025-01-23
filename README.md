@@ -1,2 +1,2 @@
-# bcd_Shock_Ext
-A Extension Platform for know Shock Platforms like PiShock and OpenShock
+# bcdShockPanel
+A Extension Platform for the Shock Platforms PiShock
